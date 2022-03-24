@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alex@flipped-mountain.com**
 
-- 📄 Know about my experiences [https://flipped-mountain.com](https://flipped-mountain.com)
+# - 📄 Know about my experiences [https://flipped-mountain.com](https://flipped-mountain.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
