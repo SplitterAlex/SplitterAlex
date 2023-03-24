@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate full-stack web-developer from Austria</h3>
 
-- 🌱 I’m currently learning **Sveltekit**
+- 🌱 I’m currently learning **[SvelteKit](https://kit.svelte.dev/)**
 
-- 👯 I’m looking to collaborate on **projects using angular (or any JS Frontend Framework), wordpress and woocommerce (Gutenberg/Fullsite-Editing)**
+- 👯 I’m looking to collaborate on **projects using angular (or any other JS Frontend Framework), wordpress and woocommerce (Gutenberg/Fullsite-Editing)**
 
 - 👨‍💻 All of my projects are available at [https://flipped-mountain.com](https://flipped-mountain.com)
 
-- 💬 Ask me about **angular, wordpress, woocommerce**
+- 💬 Ask me about **angular, reacht, sveltekit, wordpress, woocommerce**
 
 - 📫 How to reach me **alex@flipped-mountain.com**
 
